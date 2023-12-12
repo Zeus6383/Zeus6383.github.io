@@ -19,10 +19,16 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 /* End of Reset CSS */
 
 body {
-    font-family: 'Helvetica Neue', Arial, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
+}
+
+p{
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #555;
 }
 
 aside{

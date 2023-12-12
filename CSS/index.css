@@ -46,12 +46,19 @@ body {
 
 p, a {
     text-align: center;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 25%;
+    padding-right: 25%;
     color: black;
     font-family: 'Dancing Script', cursive;
+    padding-bottom: 1%;
 }
 
+h2 {
+    font-size: 25px;
+    font-family: fantasy;
+    color: rgb(150, 33, 33);
+    padding-bottom: 4px;
+}
 /* Ordered List Styles */
 
 ol {
@@ -63,13 +70,4 @@ ol {
     font-family: 'Dancing Script', cursive;
 }
 
-/* Image Styles */
-
-img {
-    display: block;
-    width: 350px;
-    height: 250px;
-    margin: 0 auto;
-    padding-left: 30px;
-}
 
